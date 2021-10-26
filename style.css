@@ -2,7 +2,11 @@ body {
     background-color: rgb(250, 238, 227);
   }
   
-  h1 {
+  h1,li,h2,img,p{
     color: rgb(61, 23, 2);
     margin-left: 250px;
+  }
+  svg{
+   
+    margin-left: 50px;
   }

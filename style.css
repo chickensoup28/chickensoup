@@ -20,14 +20,7 @@ header,footer,main{
   text-align: center;
 }
 
-img{
-  width: 100%;
-  height: auto;
-}
-svg{
-  width: 100%;
-  height: auto;
-}
+
 .grid-container {
   display: grid;
   grid-template-columns: 50% auto;

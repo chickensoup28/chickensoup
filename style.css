@@ -5,14 +5,14 @@
 
 
 body{
-  margin: 50px;
-  padding :50px;
+  padding :auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 16px;
 }
 
 header,footer,main,nav{
   margin: 20px auto;
+  padding: auto;
   max-width: 600px;
 }
 
@@ -28,3 +28,12 @@ header,footer,main,svg{
   grid-column-gap: 50px;
   grid-row-gap: 50px;
 }
+
+.imagecontainer {display: flex;}
+
+img {flex: 100%;
+max-width: 100%;
+padding-left: auto;
+padding-right: auto;
+margin-left: auto;
+margin-right: auto}

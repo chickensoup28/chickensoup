@@ -16,7 +16,7 @@ header,footer,main,nav{
   max-width: 600px;
 }
 
-header,footer,main{
+header,footer,main,svg{
   text-align: center;
 }
 

@@ -16,7 +16,7 @@ header,footer,main,nav{
   max-width: 600px;
 }
 
-header,footer,main,svg{
+header,footer,main,h2,p{
   text-align: center;
 }
 
@@ -37,3 +37,6 @@ padding-left: auto;
 padding-right: auto;
 margin-left: auto;
 margin-right: auto}
+img {
+  border: 1px solid #555;
+}

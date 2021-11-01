@@ -27,6 +27,7 @@ footer{
 }
 header,footer,main,h2,p{
   text-align: center;
+  align-content: center;
 }
 
 
@@ -49,3 +50,4 @@ margin-right: auto}
 img {
   border: 1px solid #555;
 }
+
